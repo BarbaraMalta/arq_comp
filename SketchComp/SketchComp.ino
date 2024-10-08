@@ -1,4 +1,4 @@
-// Agugusto, 202051692553 - NT
+// Augusto, 202051692553 - NT
 // Barbara Malta, 202402898892 - TA
 // Breno Chaves, 202402798502 - TA
 // Guilherme Pardelhas, 20242697668 - TA
